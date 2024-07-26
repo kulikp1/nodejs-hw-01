@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "0514195f-f831-4726-b180-ae4ca9f8cbc2",
+    "name": "Larry Kassulke",
+    "phone": "533.692.3101 x91704",
+    "email": "Maximo64@hotmail.com",
+    "job": "Legacy Research Facilitator"
+  },
+  {
+    "id": "a920b9f2-c35c-4d08-8be4-06d2a14f95a0",
+    "name": "Gustavo Legros",
+    "phone": "(736) 332-3315 x878",
+    "email": "Hoyt81@yahoo.com",
+    "job": "Chief Interactions Orchestrator"
+  },
+  {
+    "id": "156d33d9-e936-4162-9f71-289b5e158118",
+    "name": "Kristine Volkman DVM",
+    "phone": "(774) 651-7941 x3434",
+    "email": "Sarina_Kuhlman97@hotmail.com",
+    "job": "National Accountability Supervisor"
+  },
+  {
+    "id": "11d99f32-e891-4a8f-9089-d69bc63703ca",
+    "name": "Leonard Kshlerin",
+    "phone": "(710) 417-2107 x89368",
+    "email": "Orlando_Hills@hotmail.com",
+    "job": "Chief Data Director"
+  }
+]
